@@ -1,2 +1,4 @@
 .idea/
 __paycache__/
+.git/
+venv/
